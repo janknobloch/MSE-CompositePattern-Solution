@@ -1,1 +1,1 @@
-# MSE18-CompositePattern-Solution
+# MSE-CompositePattern-Solution
